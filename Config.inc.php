@@ -11,7 +11,7 @@ return array(
     //模块简介
     'introduce' => '插件管理是ZtbCMS官方开发的高级扩展，支持插件的安装和创建',
     //模块介绍地址
-    'address' => 'http://www.ztbcms.com',
+    'address' => 'http://doc.ztbcms.com/module/addons/',
     //模块作者
     'author' => 'ZtbCMS',
     //作者地址
